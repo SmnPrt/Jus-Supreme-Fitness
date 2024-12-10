@@ -1,2 +1,2 @@
 # Jus-Supreme-Fitness
-Projet Web 
+Jus-Supreme-Fitness/index.html
